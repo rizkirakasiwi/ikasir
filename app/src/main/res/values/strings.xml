@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iKasir</string>
+    <string-array name="jenis_usaha">
+        <item>Cuci kendaraan</item>
+        <item>Isat Coffe Shop</item>
+    </string-array>
+</resources>
